@@ -50,8 +50,8 @@
         font-family: Red Hat Display;
         font-style: normal;
         font-weight: bold;
+        top: 8px;
         font-size: 32px;
-        bottom: 12px;
         left: 10px;
         visibility: visible;
         align-items: center;
@@ -163,7 +163,7 @@
     }
 
     &__text {
-
+        margin-top: 12px;
         font-family: Inter;
         font-style: normal;
         font-weight: 500;

@@ -2,7 +2,6 @@
     display: flex;
     flex-direction: column;
     position: static;
-    width: 100%;
     height: 280px;
     background-color: #333333;
     color: #FFFFFF;
@@ -10,7 +9,8 @@
 
     &__rrss {
         position: static;
-        margin: auto;
+        margin-left: auto;
+        margin-right: auto;
         margin-bottom: 0px;
         margin-top: 70px;
         height: 70px;
